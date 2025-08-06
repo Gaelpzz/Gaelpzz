@@ -24,7 +24,7 @@ I'm a programmer and currently studying Mechatronics Engineering.
 ### 🧠 Skills
 
 - Fluent in **Spanish and English**
-- Strong **teamwork** abilities
+- Strong **teamwork** and **leadership** abilities  
 - Always eager to learn and grow
 
 ---
@@ -40,4 +40,3 @@ My goal is to become an **expert programmer** and apply my knowledge in **mechat
 If you're interested in collaborating on any of my projects,  
 **feel free to contact me**:  
 📩 gael2007he@gmail.com
-
